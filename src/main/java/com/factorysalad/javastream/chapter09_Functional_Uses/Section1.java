@@ -4,6 +4,9 @@ import java.util.function.BiFunction;
 import java.util.function.Function;
 import java.util.function.Supplier;
 
+/*
+Scope , Closure , Curry
+ */
 public class Section1 {
 
     public static void main(String[] args) {
