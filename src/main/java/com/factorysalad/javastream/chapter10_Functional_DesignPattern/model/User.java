@@ -85,4 +85,5 @@ public class User {
                 ", friendUserIds=" + friendUserIds +
                 '}';
     }
+
 }
