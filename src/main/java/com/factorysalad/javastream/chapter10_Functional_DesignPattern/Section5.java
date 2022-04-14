@@ -54,7 +54,6 @@ public class Section5 {
                 }
             }
         });
-
         // 스탭4)
         OrderProcessStep processPaymentStep = new OrderProcessStep(order -> {
             // 오더가 정상이면 패이먼트 처리를 한다.
